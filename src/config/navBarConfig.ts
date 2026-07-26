@@ -18,7 +18,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 
 	// 文章及其子菜单
 	links.push({
-		name: "文章",
+		name: "ACGN",
 		url: "#",
 		icon: "material-symbols:article",
 		children: [
